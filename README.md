@@ -1,5 +1,5 @@
 # Conway_Game_of_Life
-## This is a conway game of life simulation using correlation matrix (similar of CNN but without traing the weights). 
+## This is a conway game of life simulation using correlation matrix (similar of CNN but without training the weights). 
 ### The best way to solve a problem is to solve the problem. The second best way is to use a CNN.
 ### In this problem, as we can mathematically derive the solution, training under a data set is over kill.
 ### I have solve all the possible cases from one step to another and manually given the parameter values.(They are calculated by short function)
